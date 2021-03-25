@@ -5,9 +5,7 @@
 <a href="https://www.linkedin.com/in/sabriye-sevil-hatipoglu-820418188/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sabriye sevil hatipoglu" height="30" width="40" /></a>
 <a href="https://instagram.com/eurydiice_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="eurydiice_" height="30" width="40" /></a>
 </p>
-
-
-<p align="center">- 📫 How to reach me **sevilhatipogluu93@gmail.com**</p>
+- 📫 How to reach me **sevilhatipogluu93@gmail.com**
 
 
 
