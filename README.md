@@ -1,5 +1,13 @@
-<p align="center"><img width="718" alt="Screenshot 2021-03-25 at 15 01 33" src="https://user-images.githubusercontent.com/74418527/112477390-a09bf000-8d7b-11eb-812c-be5fbbc1c9bd.png">
+<p align="center">
+ <img width="711" alt="Screenshot 2021-03-25 at 15 19 05" src="https://user-images.githubusercontent.com/74418527/112479400-ad214800-8d7d-11eb-9bd0-463d3284cc21.png">
 </p>
+
+- 🔭 I’m currently working on [Galata](galata.work)
+
+- 🌱 I’m currently learning **JS and React**
+
+- 📫 How to reach me **sevilhatipogluu93@gmail.com**
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sabriye-sevil-hatipoglu-820418188/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sabriye sevil hatipoglu" height="30" width="40" /></a>
