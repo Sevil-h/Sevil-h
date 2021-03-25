@@ -1,5 +1,5 @@
 <p align="center">
- <img width="711" alt="Screenshot 2021-03-25 at 15 19 05" src="https://user-images.githubusercontent.com/74418527/112479400-ad214800-8d7d-11eb-9bd0-463d3284cc21.png">
+ <img width="600" height="400" alt="Screenshot 2021-03-25 at 15 19 05" src="https://user-images.githubusercontent.com/74418527/112479400-ad214800-8d7d-11eb-9bd0-463d3284cc21.png">
 </p>
 
 - 🔭 I’m currently working on [Galata](galata.work)
