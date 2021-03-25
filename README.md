@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋 I'm Sabriye Sevil Hatipoglu</h1>
-<h4 align="left">Junior Front end developer from Turkey. I am graduate of web development bootcamp Le Wagon in İstanbul (Batch #567).
+<p align="center"><img align="center" src="https://user-images.githubusercontent.com/74418527/112473980-af80a380-8d77-11eb-8ad6-3d6d0304d83f.jpg" alt="sevil-h" height="450" width="600" /></p>
 
 - 🔭 I’m currently working on [Galata](galata.work)
 
