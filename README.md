@@ -1,4 +1,4 @@
-<p align="center"><img width="721" alt="Screenshot 2021-03-25 at 15 03 00" src="https://user-images.githubusercontent.com/74418527/112477132-531f8300-8d7b-11eb-9d39-442c3265ff99.png">
+<p align="center"><img width="718" alt="Screenshot 2021-03-25 at 15 01 33" src="https://user-images.githubusercontent.com/74418527/112477390-a09bf000-8d7b-11eb-812c-be5fbbc1c9bd.png">
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
