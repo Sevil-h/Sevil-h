@@ -7,7 +7,8 @@
 </p>
 
 
-- 📫 How to reach me **sevilhatipogluu93@gmail.com**
+<p align="center">- 📫 How to reach me **sevilhatipogluu93@gmail.com**</p>
+
 
 
 <h3 align="center">Languages and Tools:</h3>
