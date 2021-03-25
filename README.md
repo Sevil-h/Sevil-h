@@ -1,14 +1,11 @@
-<p align="center"><img align="center" src="https://user-images.githubusercontent.com/74418527/112473980-af80a380-8d77-11eb-8ad6-3d6d0304d83f.jpg" alt="sevil-h" height="450" width="700"/></p>
+<p align="center"><img width="721" alt="Screenshot 2021-03-25 at 15 03 00" src="https://user-images.githubusercontent.com/74418527/112477132-531f8300-8d7b-11eb-9d39-442c3265ff99.png">
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sabriye-sevil-hatipoglu-820418188/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sabriye sevil hatipoglu" height="30" width="40" /></a>
 <a href="https://instagram.com/eurydiice_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="eurydiice_" height="30" width="40" /></a>
 </p>
 
-
-- 🔭 I’m currently working on [Galata](galata.work)
-
-- 🌱 I’m currently learning **JS and React**
 
 - 📫 How to reach me **sevilhatipogluu93@gmail.com**
 
