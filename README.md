@@ -1,9 +1,3 @@
-<p align="center">
-<img width="611" alt="Screenshot 2021-03-25 at 16 18 06" src="https://user-images.githubusercontent.com/74418527/112488382-291f8e00-8d86-11eb-86e3-3fb69c174394.png">
-</p>
-
-- 🔭 I’m currently working on [Galata](galata.work)
-
 - 🌱 I’m currently learning **JS and React**
 
 - 📫 How to reach me **sevilhatipogluu93@gmail.com**
