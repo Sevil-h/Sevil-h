@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabriye Sevil Hatipoglu</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">I am an amateur artist who is passionate about drawing and painting. In the light of my passion and my education ,I'm looking for a way to apply that passion as the front-end developer after graduating from bootcamp at Le Wagon Istanbul. </h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
