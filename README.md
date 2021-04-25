@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabriye Sevil Hatipoglu</h1>
-<h3 align="center">I am an amateur artist who is passionate about drawing and painting. In the light of my passion and my education ,I'm looking for a way to apply that passion as the front-end developer after graduating from bootcamp at Le Wagon Istanbul. </h3>
-
-- 🌱 I’m currently learning **JavaScript**
+<img align="center" width="886" alt="Screenshot 2021-04-26 at 00 10 53" src="https://user-images.githubusercontent.com/74418527/116009748-fc2ff680-a623-11eb-9edf-aa9ecc233e19.png">
 
 - 👨‍💻 All of my projects are available at [https://sevilhatipoglu.herokuapp.com](https://sevilhatipoglu.herokuapp.com)
 
