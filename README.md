@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sabriye Sevil Hatipoglu</h1>
+<h1 align="center">Hi 👋</h1>
 <img align="center"" width="800" alt="Screenshot 2021-04-26 at 00 24 16" src="https://user-images.githubusercontent.com/74418527/116010113-c724a380-a625-11eb-8721-4c705d43fe57.png">
 
 
