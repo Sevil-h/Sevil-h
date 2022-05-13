@@ -2,7 +2,7 @@
 <img align="center"" width="800" alt="Screenshot 2021-04-26 at 00 24 16" src="https://user-images.githubusercontent.com/74418527/116010113-c724a380-a625-11eb-8721-4c705d43fe57.png">
 
 
-- 👨‍💻 All of my projects are available at [https://sevilhatipoglu.herokuapp.com](https://sevilhatipoglu.herokuapp.com)
+- 👨‍💻 All of my projects are available at [https://sevilhatipoglu.herokuapp.com](https://sevilhatipoglu.vercel.app/home)
 
 
 - 📫 How to reach me **sevilhatipogluu93@gmail.com**
